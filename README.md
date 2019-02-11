@@ -11,7 +11,7 @@ Day - 1 : Kaggle Competition
 
 Day - 2 : Kaggle Competition
           
-          Description: Quora Similar Questiions
+          Description: Quora Question Pair Dataset
           
           Dataset: Present on kaggle
           
