@@ -24,3 +24,11 @@ Day - 3 : Kaggle Competition
           Dataset: Present on kaggle
           
           Output: LSTM Model
+
+Day - 4 : Kaggle Competition
+          
+          Description: Hotel Reviews Dataset
+          
+          Dataset: Present on kaggle
+          
+          Output: Visualisation and prediction
