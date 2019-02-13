@@ -16,3 +16,11 @@ Day - 2 : Kaggle Competition
           Dataset: Present on kaggle
           
           Output: Cosine Similarity
+
+Day - 3 : Kaggle Competition
+          
+          Description: Quora Question Pair Dataset
+          
+          Dataset: Present on kaggle
+          
+          Output: LSTM Model
