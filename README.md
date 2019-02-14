@@ -32,3 +32,11 @@ Day - 4 : Kaggle Competition
           Dataset: Present on kaggle
           
           Output: Visualisation and prediction
+
+Day - 5 : Kaggle Competition
+          
+          Description: TMDB Dataset
+          
+          Dataset: Present on kaggle
+          
+          Output: Visualisation and budget prediction
