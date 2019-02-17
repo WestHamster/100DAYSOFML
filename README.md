@@ -40,3 +40,13 @@ Day - 5 : Kaggle Competition
           Dataset: Present on kaggle
           
           Output: Visualisation and budget prediction
+          
+Day - 6 : Reading
+          
+          Description: LSTM Research paper
+          
+Day - 7 : Reading
+          
+          Description: CNN Paper
+          
+
