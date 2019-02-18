@@ -49,4 +49,7 @@ Day - 7 : Reading
           
           Description: CNN Paper
           
+Day - 8 : Reading
+          
+          Description: Seq2Seq Paper
 
