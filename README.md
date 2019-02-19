@@ -52,4 +52,12 @@ Day - 7 : Reading
 Day - 8 : Reading
           
           Description: Seq2Seq Paper
+          
+Day - 9 : Kaggle Competition
+          
+          Description: Pet Finder
+          
+          Dataset: Present on kaggle
+          
+          Output: Visualisation and adoption speed
 
