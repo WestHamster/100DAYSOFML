@@ -61,3 +61,11 @@ Day - 9 : Kaggle Competition
           
           Output: Visualisation and adoption speed
 
+Day - 10 :1) Experimentation
+          
+          Description: Dask Usage for Day 1 problem
+          
+          Dataset: Present on kaggle
+          
+          Output: Visualisation and prediction on training set
+
