@@ -69,3 +69,11 @@ Day - 10 :1) Experimentation
           
           Output: Visualisation and prediction on training set
 
+Day - 10 :2) Kaggle Competition
+          
+          Description: Don't Overfit 2
+          
+          Dataset: Present on kaggle
+          
+          Output: LGBM model
+
