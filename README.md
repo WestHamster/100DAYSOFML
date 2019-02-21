@@ -77,3 +77,7 @@ Day - 10 :2) Kaggle Competition
           
           Output: LGBM model
 
+Day - 11 : Reading
+          
+          Description: LSTM article
+
