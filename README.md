@@ -81,3 +81,6 @@ Day - 11 : Reading
           
           Description: LSTM article
 
+Day - 12 : Reading
+          
+          Description: RNN Encoder and Decoder Research Paper
