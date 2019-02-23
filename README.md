@@ -84,3 +84,7 @@ Day - 11 : Reading
 Day - 12 : Reading
           
           Description: RNN Encoder and Decoder Research Paper
+
+Day - 13 : Reading
+          
+          Description: IBM SMT Research Paper
