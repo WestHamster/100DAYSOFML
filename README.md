@@ -88,3 +88,15 @@ Day - 12 : Reading
 Day - 13 : Reading
           
           Description: IBM SMT Research Paper
+
+Day - 14 : Reading
+          
+          Description: Google NMT Research Paper
+
+Day - 15 : Reading
+          
+          Description: NMT Research Paper
+
+Day - 16 : Reading
+          
+          Description: NMT align and learn Research Paper
