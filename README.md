@@ -101,11 +101,18 @@ Day - 16 : Reading
           
           Description: NMT align and learn Research Paper
           
-Day - 17 : Kaggle Competition
+Day - 17 :1) Kaggle Competition
           
           Description: Heart Disease Dataset
           
           Dataset: Present on kaggle
           
-          Output: Visualisation and budget prediction
+          Output: Visualisation
 
+Day - 17 :2) Kaggle Competition
+          
+          Description: Heart Disease Dataset
+          
+          Dataset: Present on kaggle
+          
+          Output: Prediction
