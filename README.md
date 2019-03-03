@@ -116,3 +116,15 @@ Day - 17 :2) Kaggle Competition
           Dataset: Present on kaggle
           
           Output: Prediction
+
+Day - 18 : Reading
+          
+          Description: Recurrent Continuous TM
+
+Day - 19 : Reading
+          
+          Description: Scaling NMT
+
+Day - 20 : Reading
+          
+          Description: Syntax - working
