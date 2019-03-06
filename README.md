@@ -128,3 +128,14 @@ Day - 19 : Reading
 Day - 20 : Reading
           
           Description: Syntax - working
+
+Day - 21 : Reading
+          
+          Description: Linear Algebra (linear independability)
+
+Day - 22 : Reading
+          
+          Description: Matrix
+          
+
+
