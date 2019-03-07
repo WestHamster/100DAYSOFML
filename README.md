@@ -137,5 +137,13 @@ Day - 22 : Reading
           
           Description: Matrix
           
+Day - 23 : Kaggle 
+          
+          Description: Suicide Rates 
+          
+          Dataset: Present on kaggle
+          
+          Output: Visualization
+          
 
 
