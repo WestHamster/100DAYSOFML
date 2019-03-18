@@ -146,4 +146,59 @@ Day - 23 : Kaggle
           Output: Visualization
           
 
+Day - 24,25,26 : Hack-a-thon
 
+
+Day - 27 : Kaggle
+
+          Description: Support Group
+          
+          Dataset: Present on Kaggle
+          
+          Output: Visualisation
+          
+
+Day - 28 : Kaggle
+          
+          Description: MS Admission
+          
+          Dataset: Present on Kaggle
+          
+          Output: Visualisation and cross validation
+
+Day - 29 : Kaggle
+          
+          Description: India Census 2011
+          
+          Dataset: Present on Kaggle
+          
+          Output: Visualisation
+
+
+Day - 30 : Kaggle
+          
+          Description: Global Terrorism
+          
+          Dataset: Present on Kaggle
+          
+          Output: Visualisation
+          
+
+Day - 31 : Reading
+          
+          Description: PCA
+         
+
+Day - 32 : Reading
+          
+          Description: PCA Algebra
+          
+
+Day - 33 : Reading
+          
+          Description: Eigen Values and Vectors
+          
+
+Day - 34 : Reaing
+          
+          Description: SVD
