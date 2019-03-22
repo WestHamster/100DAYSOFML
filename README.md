@@ -202,3 +202,23 @@ Day - 33 : Reading
 Day - 34 : Reaing
           
           Description: SVD
+
+Day - 35 : Reaing
+          
+          Description: Implementation of linear algebra in Machine Learning
+
+Day - 36 : Reaing
+          
+          Description: Surprise library
+
+Day - 37 : Reaing
+          
+          Description: Building a recommendation System
+
+Day - 38 : Kaggle
+          
+          Description: Recommendation System
+          
+          Dataset: Present on Kaggle
+          
+          Output: Trending and choice based recommendation
