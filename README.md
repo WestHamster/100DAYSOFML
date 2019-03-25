@@ -222,3 +222,15 @@ Day - 38 : Kaggle
           Dataset: Present on Kaggle
           
           Output: Trending and choice based recommendation
+
+Day - 39 : Reaing
+          
+          Description: Collaborative filtering
+
+Day - 40 : Reaing
+          
+          Description: Chatbot for recommendation system
+
+Day - 41 : Reaing
+          
+          Description: Matrix Manipulations
