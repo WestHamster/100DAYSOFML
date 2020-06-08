@@ -199,19 +199,19 @@ Day - 33 : Reading
           Description: Eigen Values and Vectors
           
 
-Day - 34 : Reaing
+Day - 34 : Reading
           
           Description: SVD
 
-Day - 35 : Reaing
+Day - 35 : Reading
           
           Description: Implementation of linear algebra in Machine Learning
 
-Day - 36 : Reaing
+Day - 36 : Reading
           
           Description: Surprise library
 
-Day - 37 : Reaing
+Day - 37 : Reading
           
           Description: Building a recommendation System
 
@@ -223,14 +223,14 @@ Day - 38 : Kaggle
           
           Output: Trending and choice based recommendation
 
-Day - 39 : Reaing
+Day - 39 : Reading
           
           Description: Collaborative filtering
 
-Day - 40 : Reaing
+Day - 40 : Reading
           
           Description: Chatbot for recommendation system
 
-Day - 41 : Reaing
+Day - 41 : Reading
           
           Description: Matrix Manipulations
